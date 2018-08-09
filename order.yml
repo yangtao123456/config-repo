@@ -13,7 +13,7 @@ girl:
   name: lily1
 boy:
   age: 22
-#eureka:
-#  client:
-#    service-url:
-#      defaultZone: http://localhost:8761/eureka/
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8762/eureka/
