@@ -11,6 +11,8 @@ spring:
 girl:
   age: 20
   name: lily1
+boy:
+  age: 22
 #eureka:
 #  client:
 #    service-url:
