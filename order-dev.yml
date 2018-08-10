@@ -10,3 +10,7 @@ spring:
     show-sql: true
 env:
   test4
+
+girl:
+  age: 20
+  name: rommy
