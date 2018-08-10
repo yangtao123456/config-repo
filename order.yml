@@ -9,7 +9,7 @@ spring:
   jpa:
     show-sql: true
 girl:
-  age: 20
-  name: lily1
+  age: 22
+  name: lily
 boy:
   age: 22
