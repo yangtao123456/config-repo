@@ -11,5 +11,5 @@ spring:
 env:
   devchao
 girl:
-  age: 33333532
-  name: rommy+++-goodma
+  age: 33
+  name: rommy
