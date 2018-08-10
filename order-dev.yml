@@ -9,7 +9,7 @@ spring:
   jpa:
     show-sql: true
 env:
-  devxxx
+  devchao
 girl:
   age: 333335
   name: rommy+++-goodma
