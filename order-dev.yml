@@ -9,7 +9,7 @@ spring:
   jpa:
     show-sql: true
 env:
-  live123
+  live
 girl:
   age: 33
   name: rommy
