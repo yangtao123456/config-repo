@@ -9,7 +9,7 @@ spring:
   jpa:
     show-sql: true
 env:
-  live
+  chengdie
 girl:
   age: 33
   name: rommy
