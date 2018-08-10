@@ -9,7 +9,7 @@ spring:
   jpa:
     show-sql: true
 env:
-  dev12
+  dev12333
 girl:
   age: 33
   name: rommy
