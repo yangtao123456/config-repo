@@ -4,5 +4,10 @@ spring:
     username: ttsweb
     password: China8620
     url: jdbc:mysql://10.0.0.138/MyTest?characterEncoding=utf-8&useSSL=false
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
   jpa:
     show-sql: true
