@@ -10,6 +10,6 @@ spring:
     show-sql: true
 girl:
   age: 22
-  name: lily
+  name: lily222
 boy:
   age: 22
