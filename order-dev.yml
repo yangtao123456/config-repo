@@ -14,7 +14,7 @@ spring:
     username: guest
     password: guest
 env:
-  aaaa
+  aaaabbb
 girl:
   age: 33
   name: rommy
